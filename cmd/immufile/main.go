@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"immu/immufile/pkg/hashtree"
+	"github.com/eugene-trifonov/immufile/pkg/hashtree"
 )
 
 const (
